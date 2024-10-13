@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+```python
+config = {
+    "group_name": "trif3cta",
+    "members": [
+        "M!lanKa",
+        "R@v!ndu",
+        "Denuw@n"
+    ]
+}
+```
 <!--
 
 **Here are some ideas to get you started:**
